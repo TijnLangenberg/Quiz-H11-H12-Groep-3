@@ -15,4 +15,4 @@ public class MijnKlasse extends SuperKlasse
     System.out.print(mk.methodeA(23, "Emma"));
   }
 }
-//opdracht: "super.x ++;" toegevoegd, error: superklasse.k can not be assigned. 
+//opdracht: "super.x ++;" toegevoegd, error: superklasse.k can not be assigned.  
