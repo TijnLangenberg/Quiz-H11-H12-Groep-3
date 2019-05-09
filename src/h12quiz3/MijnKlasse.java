@@ -6,7 +6,8 @@ public class MijnKlasse extends SuperKlasse
   String methodeA(String s, int i)
   {
     String str = s + ", " + i;
-    super.x ++;
+    //super.x ++;
+    //x kan niet verhoogt worden omdat het een final attribuut is...dat is dus een contante
     return str;
   }
   public static void main(String[] args)
