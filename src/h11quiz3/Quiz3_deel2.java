@@ -1,6 +1,5 @@
-package H11Q3;
-
 class Quiz3_deel2 extends Quiz3_deel1{
+//h11quiz3 gemaakt door: Wybren.
 	char c2 = 'A';
 	
 	Quiz3_deel2(){
