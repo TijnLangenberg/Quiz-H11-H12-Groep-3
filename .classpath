@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
+<<<<<<< HEAD
 	<classpathentry kind="src" path="H11"/>
 	<classpathentry kind="src" path="H12"/>
+=======
+	<classpathentry kind="src" path="src"/>
+>>>>>>> branch 'master' of https://github.com/TijnLangenberg/Quiz-H11-H12-Groep-3.git
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
