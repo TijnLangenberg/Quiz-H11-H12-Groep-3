@@ -17,7 +17,7 @@ public class Subklasse extends Superklasse
     // System.out.print(supK.str3); /* 3 */
     // System.out.print(supK.str4); /* 4 */
     // System.out.print(subK.str2); /* 5 */
-  }
+  } 
 }
 package _11_overerving.qz08.package_02;
 
