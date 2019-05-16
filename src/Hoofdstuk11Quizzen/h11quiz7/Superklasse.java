@@ -1,4 +1,4 @@
-public class H11Q7_deel1{
+public class Superklasse{
 	//H11Q7_deel1 gemaakt door: Wybren.
 	Superklasse(String naam){
 		this(naam, "d");
