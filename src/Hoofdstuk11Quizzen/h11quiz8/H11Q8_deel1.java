@@ -1,5 +1,5 @@
 package tools.package_02;
-
+//H11Q8_deel1 gemaakt door: Wybren.
 public class H11Q8_deel1 {
 	
 	  public String str1 = "1";

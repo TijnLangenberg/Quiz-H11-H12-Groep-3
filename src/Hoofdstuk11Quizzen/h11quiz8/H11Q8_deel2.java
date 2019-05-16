@@ -1,5 +1,5 @@
 package tools.package_01;
-
+//H11Q8_deel2 gemaakt door: Wybren.
 import tools.package_02.H11Q8_deel1;
 
 public class H11Q8_deel2 extends H11Q8_deel1
