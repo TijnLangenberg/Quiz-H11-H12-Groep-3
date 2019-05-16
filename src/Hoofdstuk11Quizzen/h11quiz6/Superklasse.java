@@ -1,5 +1,5 @@
 public class Superklasse {
-//h11quiz5 gemaakt door: Fahd.
+//h11quiz6 gemaakt door: Fahd.
 	  protected int x = 3;
 	  protected char e = 'd';
 	  void mijnMethode()
