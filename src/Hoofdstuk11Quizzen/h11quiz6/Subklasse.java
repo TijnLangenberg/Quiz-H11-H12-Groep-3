@@ -1,5 +1,5 @@
 public class Subklasse extends Superklasse {
-//h11quiz5 gemaakt door: Fahd.
+//h11quiz6 gemaakt door: Fahd.
 }
   void mijnMethode()
   {
