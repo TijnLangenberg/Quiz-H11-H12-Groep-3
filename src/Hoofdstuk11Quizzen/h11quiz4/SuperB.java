@@ -6,4 +6,4 @@ public class SuperB {
 	    x += 2;
 	    System.out.print(" x" + x);
 	  }
-	}
+	} 

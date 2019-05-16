@@ -6,4 +6,4 @@ public class SuperA extends SuperB {
     y++;
     System.out.print(" y" + y);
   }
-}
+} 
