@@ -1,3 +1,5 @@
+package src.Hoofdstuk11Quizzen.h11quiz5;
+
 public class Subklasse extends Superklasse {
 //h11quiz5 gemaakt door: Fahd.
   int mijnMethode(int i, int i2)

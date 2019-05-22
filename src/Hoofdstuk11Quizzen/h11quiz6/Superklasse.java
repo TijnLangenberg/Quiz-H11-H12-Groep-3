@@ -1,3 +1,5 @@
+package src.Hoofdstuk11Quizzen.h11quiz6;
+
 public class Superklasse {
 //h11quiz6 gemaakt door: Fahd.
 	  protected int x = 3;

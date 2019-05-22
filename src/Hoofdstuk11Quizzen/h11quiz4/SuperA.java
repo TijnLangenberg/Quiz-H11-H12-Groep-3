@@ -1,3 +1,5 @@
+package src.Hoofdstuk11Quizzen.h11quiz4;
+
 public class SuperA extends SuperB {
 //h11quiz4 gemaakt door: Fahd.	
   int y = 7;
