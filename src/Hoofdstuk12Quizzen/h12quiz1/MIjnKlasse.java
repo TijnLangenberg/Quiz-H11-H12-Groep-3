@@ -1,4 +1,4 @@
-package h12quiz1;
+package src.Hoofdstuk12Quizzen.h12quiz1;
 //h12quiz1 gemaakt door: Tijn.
 public class MIjnKlasse {
 

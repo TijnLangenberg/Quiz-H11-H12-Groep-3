@@ -1,3 +1,5 @@
+package src.Hoofdstuk11Quizzen.h11quiz7;
+
 public class Superklasse{
 	//H11Q7_deel1 gemaakt door: Wybren.
 	Superklasse(String naam){

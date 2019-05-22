@@ -1,3 +1,5 @@
+package src.Hoofdstuk11Quizzen.h11quiz7;
+
 public class Subklasse extends Superklasse{
 	//H11Q7_deel2 gemaakt door: Wybren.
 	Subklasse(String naam){

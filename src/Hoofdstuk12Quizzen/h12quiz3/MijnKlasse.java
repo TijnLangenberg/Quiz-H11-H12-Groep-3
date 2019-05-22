@@ -1,4 +1,4 @@
-package h12quiz3;
+package src.Hoofdstuk12Quizzen.h12quiz3;
 //h12quiz3 gemaakt door: Zinho.
 public class MijnKlasse extends SuperKlasse
 {
@@ -7,7 +7,7 @@ public class MijnKlasse extends SuperKlasse
   {
     String str = s + ", " + i;
     //super.x ++;
-    //x kan niet verhoogt worden omdat het een final attribuut is...dat is dus een contante
+    //x kan niet verhoogd worden omdat het een final attribuut is...dat is dus een contante
     return str;
   }
   public static void main(String[] args)

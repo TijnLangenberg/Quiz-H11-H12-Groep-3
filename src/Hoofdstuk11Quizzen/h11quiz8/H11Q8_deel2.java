@@ -1,4 +1,4 @@
-package tools.package_01;
+package src.Hoofdstuk11Quizzen.h11quiz8;
 //H11Q8_deel2 gemaakt door: Wybren.
 import tools.package_02.H11Q8_deel1;
 

@@ -1,4 +1,4 @@
-package h12quiz4;
+package src.Hoofdstuk12Quizzen.h12quiz4;
 //h12quiz4 gemaakt door: Tijn.
 public final class MijnKlasse extends Superklasse
 {

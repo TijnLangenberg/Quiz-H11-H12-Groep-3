@@ -1,4 +1,4 @@
-package h12quiz3;
+package src.Hoofdstuk12Quizzen.h12quiz3;
 //h12quiz3 gemaakt door: Zinho.
 public class SuperKlasse {
 

@@ -1,4 +1,4 @@
-package h12quiz2;
+package src.Hoofdstuk12Quizzen.h12quiz2;
 //h12quiz2 gemaakt door: Tijn.
 public class MijnKlasse extends Superklasse
 {
