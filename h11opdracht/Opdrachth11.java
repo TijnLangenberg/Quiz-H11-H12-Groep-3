@@ -1,4 +1,4 @@
-
+package h11opdracht;
 import java.util.Scanner;
 
 public class Opdrachth11 {
