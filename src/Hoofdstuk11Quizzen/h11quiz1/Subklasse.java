@@ -12,7 +12,7 @@ public class Subklasse extends Superklasse
 	}
 	public static void main(String[] args)
 	{
-		Subklasse sk = new Subklasse();
+		Subklasse sk = new Subklasse(); 
 	}
 }
 //opdracht: ik heb op regel 5 de waarde van y verandert en op regel 9 de waarde van x verandert.
