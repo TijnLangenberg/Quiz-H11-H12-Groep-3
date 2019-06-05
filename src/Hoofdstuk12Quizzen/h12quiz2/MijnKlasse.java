@@ -12,7 +12,7 @@ public class MijnKlasse extends Superklasse
 	{
 		MijnKlasse mk = new MijnKlasse();
 	}
-	//opdracht
+
 	void methodeB(int x)
 	{
 		System.out.print("X");
